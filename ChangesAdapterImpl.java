@@ -1,8 +1,8 @@
 
-public class MovableAdapterImpl implements MovableAdapter {
-    private Movable exchangesMoney;
+public class ChangesAdapterImpl implements ChangesAdapter {
+    private Changes exchangesMoney;
 
-    public MovableAdapterImpl(Movable exchangesMoney) {
+    public ChangesAdapterImpl(Changes exchangesMoney) {
         this.exchangesMoney = exchangesMoney;
     }
 

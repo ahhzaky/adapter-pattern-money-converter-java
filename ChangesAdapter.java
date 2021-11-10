@@ -1,4 +1,4 @@
-public interface MovableAdapter {
+public interface ChangesAdapter {
     double getDollar(int nilai);
 
     double getRinggit(int nilai);

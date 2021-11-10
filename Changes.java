@@ -1,4 +1,4 @@
-public interface Movable {
+public interface Changes {
     double getDollar();
 
     double getRinggit();

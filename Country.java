@@ -1,4 +1,4 @@
-public class Country implements Movable {
+public class Country implements Changes {
     @Override
     public double getDollar() {
         return 14319;
