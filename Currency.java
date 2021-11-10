@@ -1,4 +1,4 @@
-public class Country implements Changes {
+public class Currency implements Changes {
     @Override
     public double getDollar() {
         return 14319;
